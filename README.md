@@ -72,6 +72,5 @@ Feel free to fork, raise issues, or suggest features!
 
 ## 📬 Contact
 
-Feel free to reach me at:  
-📧 niharika@example.com  
+Feel free to reach me at:    
 💼 [LinkedIn](https://linkedin.com/in/sniharika)
